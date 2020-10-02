@@ -1,0 +1,13 @@
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\bin\Debug\netcoreapp3.1\BubbleSortSample.exe
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\bin\Debug\netcoreapp3.1\BubbleSortSample.deps.json
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\bin\Debug\netcoreapp3.1\BubbleSortSample.runtimeconfig.json
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\bin\Debug\netcoreapp3.1\BubbleSortSample.runtimeconfig.dev.json
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\bin\Debug\netcoreapp3.1\BubbleSortSample.dll
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\bin\Debug\netcoreapp3.1\BubbleSortSample.pdb
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.csprojAssemblyReference.cache
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.csproj.CoreCompileInputs.cache
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.AssemblyInfoInputs.cache
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.AssemblyInfo.cs
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.dll
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.pdb
+C:\Users\evan.warren\Documents\GitHub\BubbleSortSample\obj\Debug\netcoreapp3.1\BubbleSortSample.genruntimeconfig.cache
