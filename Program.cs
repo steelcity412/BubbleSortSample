@@ -7,7 +7,7 @@ namespace BubbleSortSample
         static void Main(string[] args)
         {
             int[] arr = { 5, 1, 4, 2, 8 };
-            int highestValue;
+            int tempValue;
 
             Console.WriteLine("Original array :");
             
@@ -22,9 +22,9 @@ namespace BubbleSortSample
                 {
                     if (arr[i] > arr[i + 1])
                     {
-                        highestValue = arr[i + 1];
+                        tempValue = arr[i + 1];
                         arr[i + 1] = arr[i];
-                        arr[i] = highestValue;
+                        arr[i] = tempValue;
                     }
                 }
             }
